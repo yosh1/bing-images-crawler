@@ -1,4 +1,4 @@
-# bing-images-crawler
+# keras-face-recognition
 
 ## package install
 
